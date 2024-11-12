@@ -82,7 +82,7 @@ const ImagePickerComponent = () => {
 
   return (
     <View style={styles.container}>
-      <Text>Rifkah Syam Saibah - 00000069604</Text>
+      <Text>Saint Christopher Shyandon - 00000075026</Text>
       <Button title="Open Camera" onPress={handleCameraLaunch} color="#1E90FF" />
       <Button title="Open Gallery" onPress={openImagePicker} color="#1E90FF" />
       
